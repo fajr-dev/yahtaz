@@ -22,7 +22,7 @@ A minimalist Islamic application for spiritual enrichment and learning. Yahtaz p
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/yahtaz.git
+git clone https://github.com/fajr-dev/yahtaz.git
 cd yahtaz
 ```
 
